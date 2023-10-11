@@ -12,7 +12,7 @@
 - Triangle: P = a + b + c
 
 
-##Functools description
+## Functools description
 
 ### Area
 - area(r) - returns an area of the circle with radius r.
