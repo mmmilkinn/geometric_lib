@@ -11,7 +11,9 @@
 - Square: P = 4a
 - Triangle: P = a + b + c
 
+
 ##Functools description
+
 ### Area
 - area(r) - returns an area of the circle with radius r.
     area(5) → 78.539816
