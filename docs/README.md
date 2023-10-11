@@ -31,7 +31,7 @@
     perimeter(5, 10) → 30
 - perimeter(a) - returns a perimeter of the square with side a.
     perimeter(5) → 20
-- perimeter(a, h) - returns a perimeter of the triangle with sides a, b, c.
+- perimeter(a, b, c) - returns a perimeter of the triangle with sides a, b, c.
     perimeter(5, 5, 5) → 15
 
 ## History of changes
