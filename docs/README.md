@@ -5,14 +5,14 @@
 - Square: S = a²
 - Triangle: S = ah/2
 
-## Perimeter
+### Perimeter
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 - Triangle: P = a + b + c
 
-#Functools description
-## Area
+##Functools description
+### Area
 - area(r) - returns an area of the circle with radius r.
     area(5) → 78.539816
 - area(a, b) - returns an area of the rectangle with sides a, b.
@@ -22,7 +22,7 @@
 - area(a, h) - returns an area of the triangle with side a, height h.
     area(5, 10) → 25
 
-## Perimeter
+### Perimeter
 - perimeter(r) - returns a length of given circle with radius r. 
     perimeter(5) → 31.41593
 - perimeter(a, b) - returns a perimeter of the rectangle with sides a, b.
