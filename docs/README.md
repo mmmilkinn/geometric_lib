@@ -35,7 +35,7 @@
     perimeter(5, 5, 5) → 15
 
 # Tests  
-Autotests success: 16/24 (75%)  
+Autotests success: 8/24 (33%)  
 
 ## History of changes
 - 129414a add tests for geometric functions
