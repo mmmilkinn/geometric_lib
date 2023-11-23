@@ -20,7 +20,7 @@ class CircleTestCase(unittest.TestCase):
 
     def test_zero_perimeter(self):
         res = circle.perimeter(0)
-        self.assertRaises(Value Error, perimetr, 0))
+        self.assertRaises(Value Error, perimetr, 0)
 
     def test_negative_perimetr(self):
         res = circle.perimeter(-10)
