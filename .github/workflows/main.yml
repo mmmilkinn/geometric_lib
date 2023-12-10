@@ -1,4 +1,4 @@
-name: Testing functions for geometric shapes using unittets
+name: Testing functions for geometric shapes using unittests
 
 on:
   push:
