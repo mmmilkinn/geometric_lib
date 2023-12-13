@@ -5,7 +5,7 @@ on:
 
 jobs:
   runtime-process-on-Ubuntu:
-    name: Geometric shape testing functions on Ubuntu using unittests
+    name: Ubuntu unittests
     runs-on: ubuntu-latest
     steps:
         - uses: actions/checkout@v4
@@ -20,7 +20,7 @@ jobs:
 
 
   runtime-process-on-Windows:
-      name: Geometric shape testing functions on Windows using unittests
+      name: Windows unittests
       runs-on: windows-latest
       steps:
         - uses: actions/checkout@v4
